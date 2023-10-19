@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Pokedex",
+      "github": "https://github.com/kevinmenis/Pokedex",
+      "urlApp": "https://pokedex-meniskevin.netlify.app/",
+      "description": "Desarrollo de una aplicación para buscar Pokémon en tiempo real de manera rápida y sencilla. Cuenta con filtros de búsqueda y con información detallada del Pokémon seleccionado.",
+      "stacks": "React JS | CSS | HTML",
+      "imageApp": "/pokedex.jpg",
+      "imageDesc": "Image app Pokedex"
+    }
+  ]
+}

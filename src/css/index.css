@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aplicar una transición suave cuando el cursor esté sobre el logotipo */
+.logo-svg {
+  transition: transform 0.3s ease-in-out;
+  user-select: none;
+}
+
+/* Escalar el logotipo ligeramente cuando el cursor esté sobre él */
+.logo-svg:hover {
+  transform: scale(1.1);
+  /* cursor: pointer; */
+}

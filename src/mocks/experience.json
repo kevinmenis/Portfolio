@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Sysworld Services S.A",
+      "rol": "Desarrollador Fullstack",
+      "time": "Abril 2021 - Actualidad",
+      "description": [
+        "Sysworld se enfoca en el desarrollo de software como servicio con el propósito de facilitar, asegurar y automatizar los procesos de comunicación entre una organización y sus clientes.",
+        "Desarrollo y mejora de las APIs de la empresa.",
+        "Desarrollo, mantenimiento y mejoras en el frontend de los sitios de la empresa.",
+        "Corrección y pruebas en desarrollos previamente realizados.",
+        "Uso de Sourcetree para gestionar y subir cambios a repositorios de control de versiones (ramas de testing o productiva).",
+        "Aplicación de la metodología de trabajo Scrum.",
+        "Tecnologías utilizadas en el trabajo: PHP, Laravel, JavaScript, React, MySQL, Git, HTML, CSS, Bootstrap."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Freelance - Casa Hogar",
+      "rol": "Desarrollador Fullstack",
+      "time": "Enero 2021 - Marzo 2021",
+      "description": [
+        "Desarrollé una aplicación con la arquitectura de MVC en la cual consiste en gestionar un negocio administrativo en este caso Casa Hogar.",
+        "Las funciones que tiene son por ejemplo poder agregar, modificar y eleminar prestamos o fiados, en el caso de ventas agregar, eliminar ventas del dia, ver listas y estadisticas de ventas.",
+        "Tecnologias utilizadas en el proyecto PHP - Javascript - html - css - Bootstrap - MySQL"
+      ]
+    }
+  ]
+}
