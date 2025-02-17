@@ -1,4 +1,4 @@
-import kevinImg from '../assets/kev.jpg'
+import kevinImg from '../assets/kev.jpeg'
 import laravel from '../assets/icons/laravel.svg'
 import php from '../assets/icons/php.svg'
 import javascript from '../assets/icons/javascript.svg'
@@ -16,7 +16,7 @@ function AboutMe() {
   return (
     <>
       <div className="mt-20 flex justify-between">
-        <img src={kevinImg} alt="Kevin Menis" className="w-1/3 rounded-full" />
+        <img src={kevinImg} alt="Kevin Menis" className="w-1/4 h-auto rounded-full aspect-square object-cover" />
         <div className="flex-grow ml-4 tracking-wider">
           <h1 className="my-4 font-serif text-5xl text-start text-sky-600">Desarrollador Fullstack</h1>
           <p className="text-base text-justify text-white">
